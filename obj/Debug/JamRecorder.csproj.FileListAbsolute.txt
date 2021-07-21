@@ -1,0 +1,9 @@
+D:\test\JamRecorder\obj\Debug\JamRecorder.csprojAssemblyReference.cache
+D:\test\JamRecorder\obj\Debug\JamRecorder.Form1.resources
+D:\test\JamRecorder\obj\Debug\JamRecorder.Properties.Resources.resources
+D:\test\JamRecorder\obj\Debug\JamRecorder.csproj.GenerateResource.cache
+D:\test\JamRecorder\obj\Debug\JamRecorder.csproj.CoreCompileInputs.cache
+D:\test\JamRecorder\bin\Debug\JamRecorder.exe
+D:\test\JamRecorder\bin\Debug\JamRecorder.pdb
+D:\test\JamRecorder\obj\Debug\JamRecorder.exe
+D:\test\JamRecorder\obj\Debug\JamRecorder.pdb
